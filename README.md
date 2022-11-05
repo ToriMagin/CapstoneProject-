@@ -9,7 +9,6 @@ Predict life expectancy by examining positive and negatively correlated health a
 Serves as an example for countries to assess to improve life expectancy for their citizens.
 
 
-
 ## The Data 
 
 The  World Health Organisation’s (WHO) Life Expectancy dataset was used for this analysis. 
@@ -41,4 +40,6 @@ The publicly available dataset provides data for 193 countries spanning from 200
 22. Schooling- Number of years of Schooling
 
 
-## Recommendatiions 
+## Recommendations 
+
+
