@@ -40,6 +40,15 @@ The publicly available dataset provides data for 193 countries spanning from 200
 22. Schooling- Number of years of Schooling
 
 
+## Final Model & Important Predictors 
+*Life_exp_scaled  ~  Schooling_scaled + Life_exp_scaled +  AdultMortality_scaled +   Infant_Deaths_scaled + Alcohol_log_scaled + BMI_log_scaled + Polio_log_scaled + Diphtheria_log_scaled + HIV_AIDS_log_scaled + Thinness_1_19Years_scaled + GDP_log_scaled*
+
+
+
+
+
+
+
 ## Recommendations 
 
 
