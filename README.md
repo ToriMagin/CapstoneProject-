@@ -49,6 +49,15 @@ The publicly available dataset provides data for 193 countries spanning from 200
 
 
 
-## Recommendations 
+## Recommendations & Insights 
 
+The analysis has show that the most influetial predictors of life expetency are:  
+1. Prevelance of HIV/AID 
+2. Thinness among children and adolescents (i.e. underweight, possible lack of nutrition)
+3. The number of years of education among the population. 
+
+There
+5. Prioritise HIV/AID prevention and education  
+6. Invest in providing/subsidising food new parents and children.
+7. Invest in education 
 
