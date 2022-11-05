@@ -1,6 +1,6 @@
 # CapstoneProject
 
-![LE Map]()
+![LE Map](LE.png)
 
 ### Business Problem 
 
