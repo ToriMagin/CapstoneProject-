@@ -64,7 +64,7 @@ Based on these insights, recommendations to improve life expectancy include:
 
 ### Other Insights 
 
-![Alcohol_LR](Alcohol_LR.png) Alcohol_LR.png
+<img src="Alcohol_LR.png" width="450" height="420">
 
 ## Questions for Future Analysis 
 
