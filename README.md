@@ -61,3 +61,11 @@ Based on these insights, recommendations to improve life expectancy include:
 6. Invest in providing/subsidising food to new parents and children. Possibly provide free meals at schools. 
 7. Invest in education 
 
+
+#### Other Insights 
+
+
+
+## Questions for Future Analysis 
+
+
