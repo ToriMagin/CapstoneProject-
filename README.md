@@ -58,14 +58,20 @@ The analysis has show that the most influetial predictors of life expetency are:
 
 Based on these insights, recommendations to improve life expectancy include:
 1. Prioritise HIV/AID prevention and education  
-6. Invest in providing/subsidising food to new parents and children. Possibly provide free meals at schools. 
-7. Invest in education 
+2. Invest in providing/subsidising food to new parents and children. Possibly provide free meals at schools. 
+3. Invest in education 
 
 
 ### Other Insights 
 
+It was interesting to note Alcohol (liters consumed per year) was the only predictor where developing and developed countries had inverse relationships to life expectancy. 
 <img src="Alcohol_LR.png" width="450" height="420">
 
 ## Questions for Future Analysis 
+In future analysis it would be useful to seperate out developing and developed countries to identify what factors devloping/lower-GDP countries are doing to optimise life expectancy without the benefit of more advanced infrastructure and resources. 
+
+To further pinpoint examples of stratetegies to improve life expectancy, the analysis could also provide a breakdown by countries to identify examplars of how developing countries can leverage their resrources effectively. 
+
+Future analysis could also more closely examine schooling to confirm if years of schooling has a true causal relationship with life expectancy or, if an increase in education and an increase in life expectancy simply go hand-in-hand with higher GDP and development. 
 
 
