@@ -54,7 +54,7 @@ The analysis has show that the most influetial predictors of life expetency are:
 2. Thinness among children and adolescents (i.e. underweight, possible lack of nutrition)
 3. The number of years of education among the population. 
 
-![Correlations](Feature_correlations_scaled.png) 
+![Correlations](Feature_correlations_scaled_.png) 
 
 Based on these insights, recommendations to improve life expectancy include:
 1. Prioritise HIV/AID prevention and education  
