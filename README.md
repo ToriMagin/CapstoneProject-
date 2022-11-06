@@ -5,8 +5,8 @@
 
 ## Business Problem 
 A consultancy firm is hired by a government health department to provide insights on factors that influence life expectancy. This analysis will attempt to:
-Predict life expectancy by examining positive and negatively correlated health and societal features of different countries. 
-Serves as an example for countries to assess to improve life expectancy for their citizens.
+* Predict life expectancy by examining positive and negatively correlated health and societal features of different countries. 
+* Serves as an example for countries to assess to improve life expectancy for their citizens.
 
 
 ## The Data 
@@ -43,11 +43,13 @@ The publicly available dataset provides data for 193 countries spanning from 200
 ## Final Model & Important Predictors 
 *Life_exp_scaled  ~  Schooling_scaled + Life_exp_scaled +  AdultMortality_scaled +   Infant_Deaths_scaled + Alcohol_log_scaled + BMI_log_scaled + Polio_log_scaled + Diphtheria_log_scaled + HIV_AIDS_log_scaled + Thinness_1_19Years_scaled + GDP_log_scaled*
 
+The final model can account for about 80% of variability in the Life Expectanct. And, with a A p-value of less than 0.05, we can reject the hypothesis that there is no relationship between life expectancy and the predictor variables.
 
 
 
 
-## Recommendations & Insights 
+
+## Recommendations
 
 The analysis has show that the most influetial predictors of life expetency are:  
 1. Prevelance of HIV/AID 
@@ -64,7 +66,7 @@ Based on these insights, recommendations to improve life expectancy include:
 
 ### Other Insights 
 
-It was interesting to note Alcohol (liters consumed per year) was the only predictor where developing and developed countries had inverse relationships to life expectancy. 
+It was interesting to note that Alcohol (liters consumed per year) was the only predictor where developing and developed countries had inverse relationships to life expectancy. This could also be an interesting question to address in future studies. 
 <img src="Alcohol_LR.png" width="450" height="420">
 
 ## Questions for Future Analysis 
